@@ -7,7 +7,7 @@ I also enjoy wireframing, ui, ux, and design in general.
 * 🐍 Python
 * 📱 Android
 * ☕ Java
-* 💻 HTML, css, JS
+* 💻 HTML, CSS, JS
 
 - 🔭 I’m currently working on My portfolio. 
 
