@@ -1,8 +1,13 @@
-### Hi there 👋, Sai Raghavendra
-#### Design and Development
-I'm Raghavendra from India, and I do Design and Development. I really enjoy learning and frameworks like Django, Android.I also enjoy wireframing, ui, ux, and design in general.
+# Sai Raghavendra M
+I'm Raghavendra from India, and I do Design and Development. I really enjoy learning and frameworks like Django, Android.
+I also enjoy wireframing, ui, ux, and design in general.
 
-Skills: Python / Java / HTML / CSS
+## Skills and Experience
+* 🕸️ Django
+* 🐍 Python
+* 📱 Android
+* ☕ Java
+* 💻 HTML, css, JS
 
 - 🔭 I’m currently working on My portfolio. 
 
