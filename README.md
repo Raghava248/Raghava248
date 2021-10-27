@@ -7,5 +7,5 @@ Skills: Python / Java / HTML / CSS
 - 🔭 I’m currently working on My portfolio. 
 
 
-[<img src='https://github.com/Raghava248/Raghava248/blob/main/_MSR.png' height='40'>](https://www.instagram.com/raghava_the_pirate/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://obssesedprogrammer.blogspot.com/)  
+[<img src='https://github.com/Raghava248/Raghava248/blob/main/_MSR.png' height='40'>](https://www.instagram.com/raghava_the_pirate/)  [<img src='https://github.com/Raghava248/Raghava248/blob/main/_MSR.png' alt='website' height='40'>](https://obssesedprogrammer.blogspot.com/)  
 
